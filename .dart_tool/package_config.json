@@ -176,6 +176,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "network_image_mock",
+      "rootUri": "file:///Users/thuanle/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/network_image_mock-2.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "package_config",
       "rootUri": "file:///Users/thuanle/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/package_config-2.0.2",
       "packageUri": "lib/",
@@ -272,7 +278,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2022-03-18T02:32:04.337058Z",
+  "generated": "2022-03-18T02:47:55.931121Z",
   "generator": "pub",
   "generatorVersion": "2.16.1"
 }

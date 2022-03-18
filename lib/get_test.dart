@@ -2,10 +2,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:get/get.dart';
+import 'package:get_test/utils/image_test.dart';
 import 'package:meta/meta.dart';
 
-import 'utils/image_test.dart'
-    if (dart.library.io) 'utils/image_test_utils.dart';
+// import 'utils/image_test.dart'
+//     if (dart.library.io) 'utils/image_test_utils.dart';
+import 'package:network_image_mock/network_image_mock.dart';
 
 class _Wrapper extends StatelessWidget {
   final Widget child;
